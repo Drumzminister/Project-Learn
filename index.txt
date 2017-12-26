@@ -1,3 +1,0 @@
-This line was created in feature1
-This line was created in feature2
-This line was created in feature3
